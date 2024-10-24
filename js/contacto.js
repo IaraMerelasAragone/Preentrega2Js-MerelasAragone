@@ -6,7 +6,7 @@ class Negocio {
 }
 
 //para almacenar entradas de usuarios
-let usuarios = [];
+const usuarios = [];
 
 let continua = true;
 
